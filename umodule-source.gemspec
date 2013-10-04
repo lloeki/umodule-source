@@ -10,6 +10,7 @@ Gem::Specification.new do |s|
   s.homepage    = 'http://github.com/lloeki/umodule-source'
   s.summary     = %q{uModule source as a Ruby gem.}
   s.description = %q{uModule source as a Ruby gem.}
+  s.license     = 'MIT'
   s.files       = %W[ lib/umodule-source.rb
                       lib/umodule/source.rb
                       lib/umodule/source/umodule.js ]
